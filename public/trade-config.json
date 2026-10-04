@@ -1,6 +1,6 @@
 {
   "paymentMethod": "M-pesa",
   "tradeId": "Order ID 1006184",
-  "amount": "0.74 USD",
+  "amount": "1000 KES",
   "status": "waiting"
 }
