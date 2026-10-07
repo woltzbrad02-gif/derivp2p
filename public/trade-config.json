@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "M-pesa",
+  "paymentMethod": "Ecocash",
   "tradeId": "Order ID 1006184",
-  "amount": "1000 KES",
+  "amount": "30 usd",
   "status": "waiting"
 }
