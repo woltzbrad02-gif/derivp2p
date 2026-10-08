@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "Ecocash",
-  "tradeId": "Order ID 1006184",
-  "amount": "30 usd",
+  "paymentMethod": "Safaricom Mpesa",
+  "tradeId": "Order ID 1098856",
+  "amount": "20 usd",
   "status": "waiting"
 }
