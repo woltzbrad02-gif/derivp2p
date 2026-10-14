@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "EcoCash",
-  "tradeId": "Order ID 1127616",
-  "amount": "20 usd",
-  "status": "waiting"
+  "paymentMethod": "Chime",
+  "tradeId": "Order ID CKD3JGN06MCYD2",
+  "amount": "3 usd",
+  "status": "complete"
 }
