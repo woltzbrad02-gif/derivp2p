@@ -1,6 +1,6 @@
 {
-  "paymentMethod": "EcoCash",
-  "tradeId": "Order ID 1131235",
-  "amount": "20",
-  "status": "complete"
+  "paymentMethod": "Ubl",
+  "tradeId": "Order ID 1143560",
+  "amount": "45316.00",
+  "status": "waiting"
 }
