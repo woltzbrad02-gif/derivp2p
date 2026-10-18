@@ -1,5 +1,5 @@
 {
-  "paymentMethod": "Ubl",
+  "paymentMethod": "Bank transfer",
   "tradeId": "Order ID 1143560",
   "amount": "45316.00",
   "status": "waiting"
